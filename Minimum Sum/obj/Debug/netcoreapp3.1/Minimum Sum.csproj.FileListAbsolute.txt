@@ -1,0 +1,11 @@
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.exe
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.deps.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.runtimeconfig.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.runtimeconfig.dev.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.dll
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\Minimum Sum.pdb
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\Minimum Sum.csprojAssemblyReference.cache
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\Minimum Sum.AssemblyInfoInputs.cache
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\Minimum Sum.AssemblyInfo.cs
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\Minimum Sum.dll
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\Minimum Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.exe
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.deps.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.runtimeconfig.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.runtimeconfig.dev.json
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.dll
+C:\Users\tewbe\source\repos\ArrayUtils\bin\Debug\netcoreapp3.1\ArrayUtils.pdb
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\ArrayUtils.csprojAssemblyReference.cache
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\ArrayUtils.AssemblyInfoInputs.cache
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\ArrayUtils.AssemblyInfo.cs
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\ArrayUtils.dll
+C:\Users\tewbe\source\repos\ArrayUtils\obj\Debug\netcoreapp3.1\ArrayUtils.pdb
